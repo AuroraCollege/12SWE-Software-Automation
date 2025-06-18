@@ -12,3 +12,6 @@ pydotplus
 ipympl
 ipywidgets
 ipykernel
+torch
+torchvision
+tqdm
